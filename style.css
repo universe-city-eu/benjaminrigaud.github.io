@@ -210,6 +210,12 @@ img, video {
 		gap: 10px;
 	}
 
+	.Squareimages_2 {
+		display: grid;
+		grid-template-columns: 1fr 1fr 1fr;
+		gap: 10px;
+	}
+
 	.grille_projet_x2 {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
